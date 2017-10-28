@@ -1,0 +1,6 @@
+PROBLEM_FILE = E:\Master-thesis\7. source code\LiClipse\HDDR-viz\src\test.tsp
+RUNS = 4
+TOUR_FILE =  E:\Master-thesis\7. source code\LiClipse\HDDR-viz\src\test.out
+TIME_LIMIT = 2500
+PRECISION = 1
+

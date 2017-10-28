@@ -1,0 +1,12 @@
+{
+"header_column": false, 
+"delimiter": ",", 
+"data_source": "iris", 
+"ordering_direction": "cols", 
+"class_column": "species", 
+"header": true, 
+"ordering_methods": ["LK","random","MDS","TSNE", "HColo", "EM", "TSPmeans"], 
+"viz_method": "SPLOM", 
+"output_name": "E:/Master-thesis/output/demo/iris_heatmap/iris", 
+"data_source_type": "load"
+}

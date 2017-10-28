@@ -1,0 +1,12 @@
+NAME : tspmean.1083.tour
+COMMENT : Length = 1083
+COMMENT : Found by LKH [Keld Helsgaun] Sat Oct 28 19:10:57 2017
+TYPE : TOUR
+DIMENSION : 4
+TOUR_SECTION
+1
+2
+3
+4
+-1
+EOF
