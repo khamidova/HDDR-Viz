@@ -26,7 +26,7 @@ User can define parameters in a json-file. <br />
 Possible options:<br />
 ```json
 {
-    'data_source_type':['file','load'], //
+    'data_source_type':['file','load'], 
     'data_source':['circles','blobs','iris'],
     'viz':['PC','heatmap','SPLOM','scaledPC'],
     'ordering':['original', 'random', 'MDS','LK','EM','HColo','TSNE','EMmanhattan'],
@@ -40,7 +40,7 @@ Example json file: <br />
     "header_column": false, 
     "delimiter": ",", 
     "data_source": "iris", 
-    "ordering_direction": rows
+    "ordering_direction": "rows"
     "class_column": "species", 
     "header": true, 
     "ordering_methods": ["random", "MDS", "TSNE", "HColo", "EM", "TSPmeans", "LK"], 
