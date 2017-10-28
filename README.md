@@ -1,9 +1,9 @@
 # HDDR-Viz
 High-dimensional data reordering and visualization framework
 
-The framework reorder and visualize numeric high-dimensional datasets.
-Input: numeric data (csv-file)
-Output: reordered data (csv-file), visualization image (png-file)
+The framework reorder and visualize numeric high-dimensional datasets. <br />
+Input: numeric data (csv-file) <br />
+Output: reordered data (csv-file), visualization image (png-file) <br />
 Visualization methods: parallel coordinates, scatter plots matrix, heatmap
 Reordering methods: EM-ordering (using Euclidean or Manhattan distance), TSP-means, Lin-Kernighan heuristic, HC-olo, t-SNE, MDS, random shuffle
 
