@@ -28,7 +28,7 @@ Possible options:<br />
 {
     "data_source_type":["file","load"], 
     "viz":["PC","heatmap","SPLOM","scaledPC"],
-    "ordering":["original", "random2, "MDS","LK","EM","HColo","TSNE","EMmanhattan"],
+    "ordering":["original", "random", "MDS","LK","EM","HColo","TSNE","EMmanhattan"],
     "ordering_direction":["rows","cols"]
 }
 ```
