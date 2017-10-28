@@ -14,19 +14,24 @@ Python packages: NumPy, SciPy, Scikit-learn, Spectral, Seaborn, Matplotlib, Anyt
 
 # Configuration
 Provide path to LKH and Scagnostics implementations as well as path to the directory containing datasets in configuration file 'config.ini':
------------------------------------------------------
+
 [libs]
+
 lkh=/home/libs/lkh.exe
+
 scags=/home/libs/get_scag.r
+
+
 [datasets]
+
 directory=/home/data/datasets
------------------------------------------------------
+
 
 # User parameters
 User can define parameters in a json-file
 Possible options:
 {
-    'data_source_type':['file','load'],
+    'data_source_type':['file','load'], //
     'data_source':['circles','blobs','iris'],
     'viz':['PC','heatmap','SPLOM','scaledPC'],
     'ordering':['original', 'random', 'MDS','LK','EM','HColo','TSNE','EMmanhattan'],
