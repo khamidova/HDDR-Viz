@@ -9,7 +9,7 @@ Reordering methods: EM-ordering (using Euclidean or Manhattan distance), TSP-mea
 
 # Prerequisites
 Matlab Bio-informatics toolbox for HC-olo data reordering. <br />
-R Studio package Scagnostics for Scagnostics metric calculation. <br />
+R Studio (including package Scagnostics) for Scagnostics metric calculation. <br />
 Python packages: NumPy, SciPy, Scikit-learn, Spectral, Seaborn, Matplotlib, Anytree, Pandas, PIL, Matlab.engine, Rpy2
 
 # Configuration
