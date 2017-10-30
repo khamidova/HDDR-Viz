@@ -1,0 +1,11 @@
+dataset,ordering,metric,parameter,value
+bike,TSNE,line_crossing,no_param,0.119402153203
+bike,TSNE,mutual_information,no_param,1.59679649844
+bike,random,line_crossing,no_param,0.116051827951
+bike,random,mutual_information,no_param,2.18004273482
+bike,TSPmeans,line_crossing,no_param,0.0950049888205
+bike,TSPmeans,mutual_information,no_param,6.4638602071
+bike,EM,line_crossing,no_param,0.107252179045
+bike,EM,mutual_information,no_param,5.24446404973
+bike,EMmanhattan,line_crossing,no_param,0.107252179045
+bike,EMmanhattan,mutual_information,no_param,5.24446404973

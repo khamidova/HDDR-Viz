@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+abalone,TSNE,line_crossing,no_param,0.0553510364495
+abalone,TSNE,mutual_information,no_param,7.77250475249
+abalone,random,line_crossing,no_param,0.053943136251
+abalone,random,mutual_information,no_param,8.0329115556
+abalone,TSPmeans,line_crossing,no_param,0.052399402135
+abalone,TSPmeans,mutual_information,no_param,8.043317718
+abalone,EM,line_crossing,no_param,0.0520950607361
+abalone,EM,mutual_information,no_param,8.15181850609
+abalone,EMmanhattan,line_crossing,no_param,0.0583076268664
+abalone,EMmanhattan,mutual_information,no_param,7.43482463374
+abalone,HColo,line_crossing,no_param,0.0586571850513
+abalone,HColo,mutual_information,no_param,7.53303608564
+abalone,LK,line_crossing,no_param,0.0573158557096
+abalone,LK,mutual_information,no_param,7.77569137734
+abalone,MDS,line_crossing,no_param,0.053561026875
+abalone,MDS,mutual_information,no_param,7.9249438379

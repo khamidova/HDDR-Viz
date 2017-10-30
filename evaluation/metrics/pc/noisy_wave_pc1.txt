@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+noisy_wave,TSNE,line_crossing,no_param,0.253264281
+noisy_wave,TSNE,mutual_information,no_param,3.75067706437
+noisy_wave,random,line_crossing,no_param,0.245561814
+noisy_wave,random,mutual_information,no_param,3.83177697561
+noisy_wave,TSPmeans,line_crossing,no_param,0.200236425
+noisy_wave,TSPmeans,mutual_information,no_param,6.21047968671
+noisy_wave,EM,line_crossing,no_param,0.200282137
+noisy_wave,EM,mutual_information,no_param,6.20074660161
+noisy_wave,EMmanhattan,line_crossing,no_param,0.200524664
+noisy_wave,EMmanhattan,mutual_information,no_param,6.16862969196
+noisy_wave,HColo,line_crossing,no_param,0.20100002
+noisy_wave,HColo,mutual_information,no_param,6.31094434795
+noisy_wave,LK,line_crossing,no_param,0.198457107
+noisy_wave,LK,mutual_information,no_param,6.30378393132
+noisy_wave,MDS,line_crossing,no_param,0.222820528
+noisy_wave,MDS,mutual_information,no_param,4.94579370959

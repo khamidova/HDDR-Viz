@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+income,TSNE,line_crossing,no_param,0.0463119047619
+income,TSNE,mutual_information,no_param,9.20626786477
+income,random,line_crossing,no_param,0.0453113095238
+income,random,mutual_information,no_param,8.81970962701
+income,TSPmeans,line_crossing,no_param,0.0323226190476
+income,TSPmeans,mutual_information,no_param,14.5854834108
+income,EM,line_crossing,no_param,0.0311678571429
+income,EM,mutual_information,no_param,14.590194208
+income,EMmanhattan,line_crossing,no_param,0.0325053571429
+income,EMmanhattan,mutual_information,no_param,13.4420454321
+income,HColo,line_crossing,no_param,0.0331863095238
+income,HColo,mutual_information,no_param,14.119510679
+income,LK,line_crossing,no_param,0.0273101190476
+income,LK,mutual_information,no_param,16.0039637401
+income,MDS,line_crossing,no_param,0.0323077380952
+income,MDS,mutual_information,no_param,9.82245057743

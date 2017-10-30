@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+golub,TSNE,line_crossing,no_param,0.150394288067
+golub,TSNE,mutual_information,no_param,12522.5469392
+golub,random,line_crossing,no_param,0.207293820537
+golub,random,mutual_information,no_param,12476.9698957
+golub,TSPmeans,line_crossing,no_param,0.0933558634615
+golub,TSPmeans,mutual_information,no_param,12640.4987433
+golub,EM,line_crossing,no_param,0.119350150403
+golub,EM,mutual_information,no_param,12603.7718921
+golub,EMmanhattan,line_crossing,no_param,0.120419968906
+golub,EMmanhattan,mutual_information,no_param,12605.7699869
+golub,HColo,line_crossing,no_param,0.0915080271158
+golub,HColo,mutual_information,no_param,12653.2061646
+golub,LK,line_crossing,no_param,0.0875288607739
+golub,LK,mutual_information,no_param,12668.8443232
+golub,MDS,line_crossing,no_param,0.158102652788
+golub,MDS,mutual_information,no_param,12504.8010095

@@ -1,0 +1,9 @@
+dataset,ordering,metric,parameter,value
+traffic,TSNE,outliers,0.1,0.00123066104079
+traffic,random,outliers,0.1,0.00113466947961
+traffic,TSPmeans,outliers,0.1,0.00124683544304
+traffic,EM,outliers,0.1,0.00122937177684
+traffic,EMmanhattan,outliers,0.1,0.00124906235349
+traffic,HColo,outliers,0.1,0.00123124706985
+traffic,LK,outliers,0.1,0.00123042662916
+traffic,MDS,outliers,0.1,0.00121870604782

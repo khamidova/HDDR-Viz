@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+wine,TSNE,line_crossing,no_param,0.252952230196
+wine,TSNE,mutual_information,no_param,15.3488255351
+wine,random,line_crossing,no_param,0.232000135958
+wine,random,mutual_information,no_param,15.5188980434
+wine,TSPmeans,line_crossing,no_param,0.197095355093
+wine,TSPmeans,mutual_information,no_param,15.5580266003
+wine,EM,line_crossing,no_param,0.201987414177
+wine,EM,mutual_information,no_param,15.5905987856
+wine,EMmanhattan,line_crossing,no_param,0.192062482398
+wine,EMmanhattan,mutual_information,no_param,15.6634059764
+wine,HColo,line_crossing,no_param,0.197095355093
+wine,HColo,mutual_information,no_param,15.5580266003
+wine,LK,line_crossing,no_param,0.197095355093
+wine,LK,mutual_information,no_param,15.5580266003
+wine,MDS,line_crossing,no_param,0.19267186544
+wine,MDS,mutual_information,no_param,15.4993025658

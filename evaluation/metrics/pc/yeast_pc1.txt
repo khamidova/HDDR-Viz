@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+yeast,TSNE,line_crossing,no_param,0.11385012687
+yeast,TSNE,mutual_information,no_param,0.713172426271
+yeast,random,line_crossing,no_param,0.119429178533
+yeast,random,mutual_information,no_param,0.717104848764
+yeast,TSPmeans,line_crossing,no_param,0.0923263462558
+yeast,TSPmeans,mutual_information,no_param,0.89916654128
+yeast,EM,line_crossing,no_param,0.0923263462558
+yeast,EM,mutual_information,no_param,0.89916654128
+yeast,EMmanhattan,line_crossing,no_param,0.0923263462558
+yeast,EMmanhattan,mutual_information,no_param,0.89916654128
+yeast,HColo,line_crossing,no_param,0.0923263462558
+yeast,HColo,mutual_information,no_param,0.89916654128
+yeast,LK,line_crossing,no_param,0.094528690125
+yeast,LK,mutual_information,no_param,0.949878031704
+yeast,MDS,line_crossing,no_param,0.110589379709
+yeast,MDS,mutual_information,no_param,0.73812742333

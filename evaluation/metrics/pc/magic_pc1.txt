@@ -1,0 +1,11 @@
+dataset,ordering,metric,parameter,value
+magic,TSNE,line_crossing,no_param,0.270761877751
+magic,TSNE,mutual_information,no_param,2.42593035142
+magic,random,line_crossing,no_param,0.230659328384
+magic,random,mutual_information,no_param,2.66157872082
+magic,TSPmeans,line_crossing,no_param,0.200777607776
+magic,TSPmeans,mutual_information,no_param,4.32123770617
+magic,EM,line_crossing,no_param,0.198113762037
+magic,EM,mutual_information,no_param,4.46762425356
+magic,EMmanhattan,line_crossing,no_param,0.21433900919
+magic,EMmanhattan,mutual_information,no_param,4.40938552876

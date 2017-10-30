@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+waveform,TSNE,line_crossing,no_param,0.241035940952
+waveform,TSNE,mutual_information,no_param,2.93395745998
+waveform,random,line_crossing,no_param,0.243069361905
+waveform,random,mutual_information,no_param,3.25078168491
+waveform,TSPmeans,line_crossing,no_param,0.158447973333
+waveform,TSPmeans,mutual_information,no_param,4.92420679565
+waveform,EM,line_crossing,no_param,0.162702121905
+waveform,EM,mutual_information,no_param,4.84957445724
+waveform,EMmanhattan,line_crossing,no_param,0.161867982857
+waveform,EMmanhattan,mutual_information,no_param,4.86107806582
+waveform,HColo,line_crossing,no_param,0.162664862857
+waveform,HColo,mutual_information,no_param,4.92420679565
+waveform,LK,line_crossing,no_param,0.156953990476
+waveform,LK,mutual_information,no_param,4.92420679565
+waveform,MDS,line_crossing,no_param,0.223128068571
+waveform,MDS,mutual_information,no_param,3.55465970241

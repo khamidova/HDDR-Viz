@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+community,TSNE,line_crossing,no_param,0.207959349811
+community,TSNE,mutual_information,no_param,25.7824740166
+community,random,line_crossing,no_param,0.218344814178
+community,random,mutual_information,no_param,25.5664075018
+community,TSPmeans,line_crossing,no_param,0.104146822325
+community,TSPmeans,mutual_information,no_param,69.525550917
+community,EM,line_crossing,no_param,0.106578952624
+community,EM,mutual_information,no_param,68.4495657545
+community,EMmanhattan,line_crossing,no_param,0.108848878482
+community,EMmanhattan,mutual_information,no_param,67.6623906044
+community,HColo,line_crossing,no_param,0.103507001535
+community,HColo,mutual_information,no_param,70.961636812
+community,LK,line_crossing,no_param,0.099687915948
+community,LK,mutual_information,no_param,71.7171383456
+community,MDS,line_crossing,no_param,0.159661014285
+community,MDS,mutual_information,no_param,46.9166045734

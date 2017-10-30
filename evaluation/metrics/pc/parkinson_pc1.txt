@@ -1,0 +1,17 @@
+dataset,ordering,metric,parameter,value
+parkinson,TSNE,line_crossing,no_param,0.186116789194
+parkinson,TSNE,mutual_information,no_param,23.0573378463
+parkinson,random,line_crossing,no_param,0.175667921822
+parkinson,random,mutual_information,no_param,22.0200837265
+parkinson,TSPmeans,line_crossing,no_param,0.132125993664
+parkinson,TSPmeans,mutual_information,no_param,26.2662663796
+parkinson,EM,line_crossing,no_param,0.13211882135
+parkinson,EM,mutual_information,no_param,26.2933976818
+parkinson,EMmanhattan,line_crossing,no_param,0.132263463033
+parkinson,EMmanhattan,mutual_information,no_param,27.2206337696
+parkinson,HColo,line_crossing,no_param,0.132125993664
+parkinson,HColo,mutual_information,no_param,26.2662663796
+parkinson,LK,line_crossing,no_param,0.132125993664
+parkinson,LK,mutual_information,no_param,26.2662663796
+parkinson,MDS,line_crossing,no_param,0.136302671687
+parkinson,MDS,mutual_information,no_param,25.8854472089
